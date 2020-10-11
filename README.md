@@ -1,5 +1,5 @@
-# Fruits (a colorful encylopedia)
-Very first SwiftUI course project built to start learning some SwiftUI skills
+# Fruits (a colorful encylopedia of fruits)
+Very first SwiftUI course project, built to start learning some SwiftUI skills
 
 ![Fruits Poster 001](https://user-images.githubusercontent.com/36846931/95681800-7a79fd80-0bea-11eb-9c81-f6e0f11f7a2f.png)
 ![Fruits Poster 002](https://user-images.githubusercontent.com/36846931/95681802-7d74ee00-0bea-11eb-8c84-450b34c12bdd.png)
